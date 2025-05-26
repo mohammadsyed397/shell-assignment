@@ -10,7 +10,7 @@ This repository contains various shell scripts designed to perform common progra
 - 🔍 **replace_string.sh** — Finds and replaces a string in multiple text files within a directory.
 - ➕ **sum_of_digits.sh** — Calculates the sum of digits of a given number.
 - ⚖️ **even_odd.sh** — Determines if a number is even or odd.
-- 🔢 **two_digit_check.sh** — Checks whether a given number is two-digit.
+- 🔢 **reverse.sh** — Checks whether a given number is two-digit.
 - 🛠️ Other utility scripts for shell scripting practice.
 
 ## 🚀 How to Use
